@@ -6,7 +6,7 @@
 
 🎉 **Hi OuDuoNi** 🎉
 
-🥳    **Welcome  ** 🥳
+🥳    **Welcome**   🥳
 
 <br>
 
