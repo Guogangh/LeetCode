@@ -8,11 +8,11 @@
 
 - 结果：
 
-  ![](/Users/jxtx/Library/Application Support/typora-user-images/image-20190815231131723.png)
+  ![](/Users/jxtx/LeetCode/pic/66-plusOne.png)
 
 - 我的解决方案：
 
-  ```
+  ```java
   public static int[] plusOne(int[] digits) {
           for (int i = digits.length -1; i >= 0; i--) {
               digits[i]++;
