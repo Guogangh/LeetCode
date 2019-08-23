@@ -8,7 +8,7 @@
 
 - 结果：
 
-  ![](/Users/jxtx/LeetCode/pic/66-plusOne.png)
+  ![](../pic/66-plusOne.png)
 
 - 我的解决方案：
 
